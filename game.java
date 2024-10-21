@@ -42,16 +42,16 @@ public class game {
 
     public static void iniciarPescaria() {
         System.out.println("Você começou a pescaria. Boa sorte!");
-        // Lógica de pescaria...
+        
     }
 
     public static void verInventario() {
         System.out.println("Este é o seu inventário:");
-        // Mostrar itens no inventário...
+        
     }
 
     public static void lojaDeItens() {
         System.out.println("Bem-vindo à loja de itens! O que você deseja comprar?");
-        // Lógica para compra de itens...
+        
     }
 }
