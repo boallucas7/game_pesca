@@ -13,7 +13,7 @@ public class game {
             System.out.println("2. Ver Inventário");
             System.out.println("3. Loja de Itens");
             System.out.println("4. Sair");
-            System.out.print("Escolha uma opção: ");
+            System.out.println("Escolha uma opção: ");
 
             int opcao = scanner.nextInt();
 
@@ -49,5 +49,5 @@ public class game {
         System.out.println("Este é o seu inventário:");
         
     }
-   //Gerem outros método e cada um resolve um
+   //Gerem outros métodos e cada um resolve um
 }
