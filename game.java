@@ -49,9 +49,5 @@ public class game {
         System.out.println("Este é o seu inventário:");
         
     }
-
-    public static void lojaDeItens() {
-        System.out.println("Bem-vindo à loja de itens! O que você deseja comprar?");
-        
-    }
+   //Gerem outros método e cada um resolve um
 }
