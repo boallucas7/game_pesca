@@ -1,2 +1,9 @@
 # game_pesca
- Projeto integrado SENAC
+
+Projeto Integrador - SENAC - Grupo E
+
+ Integrantes:
+ - Felipe Poli
+ - Matheus Miranda
+ - Lucas Freire
+ - Ramon Cendon
